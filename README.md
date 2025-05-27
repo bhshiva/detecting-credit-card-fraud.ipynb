@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection 🧠💳
+# Credit Card Fraud Detection 💳
 
 This Colab notebook explores a dataset of credit card transactions to detect fraudulent activity using machine learning.
 
